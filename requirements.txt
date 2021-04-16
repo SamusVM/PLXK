@@ -1,14 +1,14 @@
 django==3.1.4
 pillow==8.0.1
 django-bootstrap4==2.3.1
-django-debug-toolbar==3.2
-# django-firebird==1.11 - íå ïðàþº ç django > 1.11
+django-debug-toolbar==1.11.1
+# django-firebird==1.11 - Ã­Ã¥ Ã¯Ã°Ã Ã¾Âº Ã§ django > 1.11
 django-google-charts==0.1.1
 django-qsstats-magic==1.1.0
 django-webpack-loader==0.7.0
 django-widget-tweaks==1.4.8
 fdb==2.0.1
-mysqlclient==2.0.1  # Ñòàíîì íà 03.12.2020 íå ï³äòðèìóº python > 3.8
+mysqlclient==2.0.1  # Ã‘Ã²Ã Ã­Ã®Ã¬ Ã­Ã  03.12.2020 Ã­Ã¥ Ã¯Â³Ã¤Ã²Ã°Ã¨Ã¬Ã³Âº python > 3.8
 numpy==1.19.4
 olefile==0.46
 pyparsing==2.4.7
